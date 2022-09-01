@@ -1,4 +1,4 @@
-App is rudementary pomodoro timer that allows you to track sessions completed across different task categories
+App is rudimentary pomodoro timer that allows you to track sessions completed across different task categories
 Select a category and start the timer (test mode recommended)
 Upon completion your work session will be logged and be available for viewing on the dashboard.
 
